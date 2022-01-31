@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30px" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=FFFFFF" alt="Java logo" title="Java" height="30px" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="30px" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="30px" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="30px" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30px" /></a>
 <a href="https://www.eclipse.org/" target="_blank"><img src="https://img.shields.io/badge/Eclipse-282C34?logo=eclipse&logoColor=DA7A07" alt="Eclipse logo" title="Eclipse" height="30px" /></a>
-<!-- <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="30px" /></a> -->
 
 ---
 
